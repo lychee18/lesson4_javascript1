@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 5, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Mark Powell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this project I made an expense calculator that determines your total living expenses and shows the percentage of the total expense spent for each category (food, shelter, etc.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://lychee18.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to declare, initialize, modify and display variables)
+2. (The getElementbyId() method is useful for referencing elements on a web page using its id value)
+3. (Associating an event with an HTML element and defining an event handler, in Javascript)
 
 
 
